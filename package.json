@@ -24,7 +24,9 @@
   "directories": {
     "test": "tests"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jasmine": "^6.2.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andela-bolajide/UserManager.git"
