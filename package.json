@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test": "jasmine tests/"
+    "test": "jasmine tests/test_server.js"
   },
   "keywords": [
     "express",
